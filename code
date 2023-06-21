@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 completion = openai.ChatCompletion.create(model="gpt-4-0613", messages=[{"role": "user", "content": "Give me 3 ideas for apps I could build with openai apis "}])
 print(completion.choices[0].message.content)
