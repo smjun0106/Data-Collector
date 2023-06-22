@@ -15,6 +15,6 @@ This API accesses ChatGPT to help improve users' logical and critical thinking s
    $ pip install gradio
    ```
 
-4. Run the file and click the 2nd link, stating "Running on public URL: .."
+4. Run the file and click either one of the links (2nd one can be shared with friends).
 
 You should now be able to use the application (note that the link expires after 72 hours).
