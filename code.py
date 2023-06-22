@@ -1,9 +1,9 @@
 import openai
 import gradio
 
-openai.api_key = "sk-"  #API Key
+openai.api_key = "####"
 
-messages = [{"role": "system", "content": "You are an expert in logical and critical thinking skills"}]
+messages = [{"role": "system", "content": "You are an expert on logical and critical thinking skills"}]
 
 def CustomChatGPT(user_input):
     messages.append({"role": "user", "content": user_input})
