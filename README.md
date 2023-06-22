@@ -17,4 +17,4 @@ This API accesses ChatGPT to help improve users' logical and critical thinking s
 
 4. Run the file and click either one of the links (2nd one can be shared with friends).
 
-You should now be able to use the application (note that the link expires after 72 hours).
+You should now be able to use the application (note that the links expires after 72 hours).
