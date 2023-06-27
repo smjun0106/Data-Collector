@@ -5,8 +5,8 @@ openai.api_key = "####"
 
 messages = [{"role": "system", "content": "You are an expert on logical and critical thinking skills"}]
 
-def CustomChatGPT(user_input):
-    messages.append({"role": "user", "content": user_input})
+def CustomChatGPT(input):
+    messages.append({"role": "user", "content": input})
     response = openai.ChatCompletion.create(
         model = "gpt-3.5-turbo",
         messages = messages
