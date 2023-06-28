@@ -1,4 +1,4 @@
-# Thinking-Model
+# ThoughtCoach
 
 This API accesses ChatGPT to help improve users' logical and critical thinking skills.
 
