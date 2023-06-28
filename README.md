@@ -6,7 +6,7 @@ This API accesses ChatGPT to help improve users' logical and critical thinking s
 
 1. If you don’t have Python installed, [install it from here](https://www.python.org/downloads/).
 
-2. Copy the "code.py" file code and paste it into an IDE.
+2. Copy the "code.py" file code and paste it into an IDE (replace the hash marks in line 4 with your API key).
 
 3. Install the requirements in the terminal:
 
