@@ -8,7 +8,7 @@ messages = [{"role": "system", "content": "You are an expert on logical and crit
 def CustomChatGPT(input):
     messages.append({"role": "user", "content": input})
     response = openai.ChatCompletion.create(
-        model = "gpt-3.5-turbo",
+        model = "gpt-4",
         messages = messages
     )
     ChatGPT_reply = response["choices"][0]["message"]["content"]
