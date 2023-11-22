@@ -1,0 +1,35 @@
+<<Prompt>>=================================================================
+
+Like the following puzzle, create a new different puzzle with five animals and/or things.  
+
+ 
+The Puzzle:
+A man has to get a fox, a chicken, and a sack of corn across a river.
+He has a rowboat, and it can only carry him and one other thing.
+If the fox and the chicken are left together, the fox will eat the chicken.
+If the chicken and the corn are left together, the chicken will eat the corn.
+
+<<Response>>=================================================================================
+Certainly! Here's a new puzzle for you, featuring five different animals and items:
+
+**The Puzzle:**
+A woman needs to get a rabbit, a carrot, a wolf, a sheep, and a bunch of cabbage across a river. She has a canoe that can only carry her and either one animal or one item at a time. If left unattended together:
+
+1. The wolf will eat the sheep.
+2. The sheep will eat the cabbage.
+3. The rabbit will eat the carrot.
+
+Remember, the woman cannot leave the wolf alone with the sheep, the sheep alone with the cabbage, or the rabbit alone with the carrot, as she crosses the river with the other animals or items.
+
+How does she do it?
+
+**Solution:**
+1. The woman takes the rabbit across first and leaves it on the other side of the river.
+2. She returns and takes the wolf across the river. When she gets to the far side, she takes the rabbit back across the original side with her.
+3. The woman then transfers the sheep to the far side, leaving it with the wolf (since those two can be left together), and takes the canoe back to the starting side empty.
+4. She takes the rabbit back across again, leaving it on the far side with the wolf and sheep. She returns alone to the original side.
+5. Now she takes the carrot across the river and leaves it with the rabbit (keeping an eye on the rabbit so it doesn't eat the carrot immediately). She returns with the sheep, as leaving the sheep with the cabbage is not safe.
+6. The woman leaves the sheep on the starting side and takes the cabbage across to the far side.
+7. Lastly, she goes back to the starting side, retrieves the sheep, and brings it across the river to join the others.
+
+Now she managed to get all her animals and items across the river safely without any harm coming to any of them.
