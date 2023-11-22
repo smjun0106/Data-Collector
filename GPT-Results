@@ -9,7 +9,7 @@ He has a rowboat, and it can only carry him and one other thing.
 If the fox and the chicken are left together, the fox will eat the chicken.
 If the chicken and the corn are left together, the chicken will eat the corn.
 
-<<Response>>=================================================================================
+<<Response 1>>=================================================================================
 Certainly! Here's a new puzzle for you, featuring five different animals and items:
 
 **The Puzzle:**
@@ -33,3 +33,34 @@ How does she do it?
 7. Lastly, she goes back to the starting side, retrieves the sheep, and brings it across the river to join the others.
 
 Now she managed to get all her animals and items across the river safely without any harm coming to any of them.
+
+<<Response 2>>==============================================================================================
+A woman needs to get a goat, a wolf, a cabbage, a basket of apples, and a honeycomb across a river. She has a canoe, and it can only carry her and one other item or animal at a time.
+
+- If the goat and the cabbage are left alone, the goat will eat the cabbage.
+- If the wolf and the goat are left alone, the wolf will eat the goat.
+- If the apples and the honeycomb are left alone, the honey attracts bees that spoil the apples.
+
+The Challenge:
+Help the woman figure out a way to get all her items and animals across the river safely without anything being eaten or spoiled.
+
+<<Response 3>>===============================================================================================
+
+A farmer must transport a goat, a wolf, a cabbage, and a bundle of carrots across a river. The farmer has a small boat, which can only carry the farmer plus one item or animal at a time. The challenges are as follows:
+
+1. If the goat and the cabbage are left alone, the goat will eat the cabbage.
+2. If the wolf and the carrots are left together, the wolf will ignore the carrots.
+3. If the wolf and the goat are left alone, the wolf will eat the goat.
+
+The farmer needs to transport all items across the river without anything being eaten.
+
+Solution:
+
+1. The farmer takes the goat across the river first and leaves it on the other side.
+2. The farmer returns alone to the original side and then takes the cabbage across the river.
+3. The farmer leaves the cabbage on the other side but takes the goat back with him to the original side.
+4. The farmer leaves the goat and takes the wolf across the river next.
+5. The farmer leaves the wolf with the cabbage on the other side and goes back alone to the original side to get the goat.
+6. He then takes the goat across the river one last time.
+
+With each trip, the farmer ensures that he does not leave the goat with the cabbage or the wolf with the goat unsupervised. All the items and animals are transported safely across the river.
